@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [School Bypasses](https://github.com/luh-99/School_Bypasses)
 
-- 🌱 I’m currently learning **Python {:python: & :javascript:}**
+- 🌱 I’m currently learning **python & javascript**
 
 - 🤝 I’m looking for help with [School Bypasses](https://github.com/luh-99/School_Bypasses)
 

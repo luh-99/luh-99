@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [School Bypasses](https://github.com/luh-99/School_Bypasses)
 
-- 🌱 I’m currently learning **python & javascript**
+- 🌱 I’m currently learning **Python & Javascript**
 
 - 🤝 I’m looking for help with [School Bypasses](https://github.com/luh-99/School_Bypasses)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **githobemail@gmail.com**
 
-- ⚡ Fun fact **I am currently learning Python but I know nothing about it.**
+- ⚡ Fun fact ** #1: Currently, I am in high school. #2: I am learning Python and Javascript and know nothing about it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

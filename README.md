@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **githobemail@gmail.com**
 
-- ⚡ Fun fact ** #1: Currently, I am in high school. #2: I am learning Python and Javascript and know nothing about it.**
+- ⚡ Fun fact **#1: I am in high school. #2: I am learning Python and Javascript and know nothing about it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

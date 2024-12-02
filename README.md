@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [School Stuff](https://github.com/luh-99/School_Bypasses)
 
-- 👨‍💻 All of my projects are available at [https://github.com/luh-99](https://github.com/luh-99)
+- 👨‍💻 All of my projects are available at [https://github.com/luh-99/repositories](https://github.com/luh-99?tab=repositories)
 
 - 💬 Ask me about **Personal Opinions 🤔, Music 🎵, Video Games 🎮 and Tech Related Stuff 💻**
 

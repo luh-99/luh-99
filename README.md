@@ -19,9 +19,8 @@
 
 - 📫 How to reach me **githobemail@gmail.com**
 
-- ⚡ Fun fact **#1: I am in high school. #2: I am learning Python and Javascript and know nothing about it.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via:</h3>
 <p align="left">
 <a href="https://dev.to/luh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luh" height="30" width="40" /></a>
 <a href="https://twitter.com/_luh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_luh99" height="30" width="40" /></a>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm luh</h1>
 <h3 align="center">A brand-new developer in the United States Of America. 🇺🇸</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luh-99&label=Profile%20Views&color=000000&style=flat-square" alt="luh-99" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=luh-99](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luh-99" alt="luh-99" /></a> </p>
 

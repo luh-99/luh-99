@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/luh-99/repositories](https://github.com/luh-99?tab=repositories)
 
-- 💬 Ask me about **Personal Opinions 🤔, Music 🎵, Video Games 🎮 and Tech Related Stuff 💻**
-
 - 📫 How to reach me **githobemail@gmail.com**
 
 

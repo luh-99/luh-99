@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm luh</h1>
 <h3 align="center">A brand-new developer in the United States Of America. 🇺🇸</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luh-99&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=luh-99)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/_luh99" target="blank"><img src="https://img.shields.io/twitter/follow/_luh99?logo=twitter&style=for-the-badge" alt="_luh99" /></a> </p>
 
@@ -16,6 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/luh-99/repositories](https://github.com/luh-99?tab=repositories)
 
 - 📫 How to reach me **githobemail@gmail.com**
+
 
 
 <h3 align="left">Connect with me via:</h3>

@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/luh-99/repositories](https://github.com/luh-99?tab=repositories)
 
-- 📫 How to reach me **githobemail@gmail.com**
+- 📫 How to reach me **githobemail@gmail.com** or via discord by adding @.luh99
 
 
 

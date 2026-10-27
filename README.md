@@ -3,19 +3,15 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luh-99)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <a href="https://twitter.com/_luh99" target="blank"><img src="https://img.shields.io/twitter/follow/_luh99?logo=twitter&style=for-the-badge" alt="_luh99" /></a> </p>
 
-- 🔭 I’m currently working on [School Stuff](https://github.com/luh-99/School_Bypasses)
+- 🔭 I’m currently working on [Awesome-Website](https://github.com/luh-99/awesome-websites)
 
 - 🌱 I’m currently learning **Python & Javascript**
 
-- 🤝 I’m looking for help with [School Stuff](https://github.com/luh-99/School_Bypasses)
+- 🤝 I’m looking for help with [Awesome-House](https://github.com/luh-99/awesome-websites)
 
 - 👨‍💻 All of my projects are available at [https://github.com/luh-99/repositories](https://github.com/luh-99?tab=repositories)
-
-- 📫 How to reach me **githobemail@gmail.com** or via discord by adding @.luh99
 
 
 

@@ -36,4 +36,4 @@
 
 <p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luh-99&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="luh-99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luh-99&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en" alt="luh-99" /></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luh-99&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=luh-99&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
